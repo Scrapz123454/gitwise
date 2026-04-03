@@ -1,0 +1,47 @@
+# Binary
+gitwise
+gitwise.exe
+dist/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.pem
+
+# Debug
+debug
+*.log
+__debug_bin*
+
+# OS
+.DS_Store
+Desktop.ini
+ehthumbs.db
+
+# Demo artifacts
+demo/*.cast
+demo/*.gif
+demo/node_modules/
+
+# Cache
+.cache/
+.claude/
